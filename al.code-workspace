@@ -5,6 +5,9 @@
     },
     {
       "path": "SampleApp1"
+    },
+    {
+      "path": "SampleApp1.Test"
     }
   ],
   "settings": {}
